@@ -6,3 +6,5 @@ streamlit
 demoji
 wordcloud
 urlextract
+emoji
+collections

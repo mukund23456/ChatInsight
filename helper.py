@@ -128,8 +128,7 @@ from wordcloud import WordCloud
 import emoji
 import pandas as pd
 from collections import Counter
-import matplotlib.pyplot as plt
-from mpl_toolkits.mplot3d import Axes3D  # Importing the 3D toolkit
+import matplotlib.pyplot as plt # Importing the 3D toolkit
 import demoji
 extract = URLExtract()
 
