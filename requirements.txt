@@ -7,4 +7,3 @@ demoji
 wordcloud
 urlextract
 emoji
-collections
