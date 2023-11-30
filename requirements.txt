@@ -4,7 +4,6 @@ pandas
 seaborn
 streamlit
 demoji
-mpl_toolkits
 collections
 wordcloud
 urlextract

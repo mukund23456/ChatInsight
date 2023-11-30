@@ -133,7 +133,7 @@
 #     st.pyplot(fig)
 import streamlit as st
 import matplotlib.pyplot as plt
-from mpl_toolkits.mplot3d import Axes3D  # Importing the 3D toolkit
+# from mpl_toolkits.mplot3d import Axes3D  # Importing the 3D toolkit
 import preprocess
 import helper
 import seaborn as sns
